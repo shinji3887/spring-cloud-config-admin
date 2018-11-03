@@ -10,6 +10,8 @@ public class SccaDbUIRestServer {
 
     public static void main(String[] args) {
         SpringApplication.run(SccaDbUIRestServer.class, args);
+        
+        //test123你好
     }
 
 }
